@@ -1,2 +1,2 @@
 # New-Game-Project
-This is my fisrt game using Godot
+This is my first game using Godot
